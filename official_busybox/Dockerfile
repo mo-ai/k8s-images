@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/official_busybox:latest
+FROM index.docker.io/library/busybox:latest
